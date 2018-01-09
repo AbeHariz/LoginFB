@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "323546861574",
+    "firebase_url": "https://loginfb-defc2.firebaseio.com",
+    "project_id": "loginfb-defc2",
+    "storage_bucket": "loginfb-defc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323546861574:android:995ff9eea58b7133",
+        "android_client_info": {
+          "package_name": "com.example.abehariz.loginfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323546861574-gop73org96d60s09eco0e13qeea780gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTNr_nWepEDJN-wzuRNo5TZz9rGuqLB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
